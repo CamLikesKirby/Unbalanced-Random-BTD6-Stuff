@@ -1,0 +1,10 @@
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\bin\Debug\net6.0\balanced_random_towers.deps.json
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\bin\Debug\net6.0\balanced_random_towers.dll
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\unbalanced_random_towers.csproj.AssemblyReference.cache
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\unbalanced_random_towers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\unbalanced_random_towers.AssemblyInfoInputs.cache
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\unbalanced_random_towers.AssemblyInfo.cs
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\unbalanced_random_towers.csproj.CoreCompileInputs.cache
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\balanced_random_towers.dll
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\refint\balanced_random_towers.dll
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\unbalanced_random_towers\obj\Debug\net6.0\ref\balanced_random_towers.dll

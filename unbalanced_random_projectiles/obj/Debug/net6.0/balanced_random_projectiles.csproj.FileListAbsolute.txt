@@ -1,0 +1,10 @@
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\bin\Debug\net6.0\balanced_random_projectiles.deps.json
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\bin\Debug\net6.0\balanced_random_projectiles.dll
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\balanced_random_projectiles.csproj.AssemblyReference.cache
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\balanced_random_projectiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\balanced_random_projectiles.AssemblyInfoInputs.cache
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\balanced_random_projectiles.AssemblyInfo.cs
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\balanced_random_projectiles.csproj.CoreCompileInputs.cache
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\balanced_random_projectiles.dll
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\refint\balanced_random_projectiles.dll
+C:\Users\among\OneDrive\Documents\BTD6 Mod Sources\balanced_random_projectiles\obj\Debug\net6.0\ref\balanced_random_projectiles.dll
